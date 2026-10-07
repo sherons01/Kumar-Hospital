@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" role="img" aria-labelledby="title">
+  <title id="title">Kumar Hospital logo</title>
+  <circle cx="54" cy="54" r="54" fill="#fff"/>
+  <path fill="#ed1c24" d="M22 14h13v64H22z"/>
+  <path fill="#0878bd" d="M38 14h12v64H38z"/>
+  <path fill="#ed1c24" d="M57 14h16L51 46h-9zM54 48h15l17 30H71z"/>
+  <path fill="#0878bd" d="M42 43h34v9H42z"/>
+  <text x="54" y="87" fill="#ed1c24" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">Kumar Hospital</text>
+</svg>
